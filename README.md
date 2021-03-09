@@ -4,3 +4,5 @@
 Repositório criado para fins de estudo de git e github.
 
 Linha adicionada diretamente do GitHub.
+
+Teste 01
