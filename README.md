@@ -1,8 +1,6 @@
-# Olá, Mundo!
- Primeiro repositório versionado do curso Git e Github
+# Progress of studies  
+ (en-US) 
+ Portuguese version being developed
 
-Repositório criado para fins de estudo de git e github.
-
-Linha adicionada diretamente do GitHub.
-
-Teste 01
+-[]
+-[]
